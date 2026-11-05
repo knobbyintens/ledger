@@ -1,3 +1,0 @@
-# HTTP Client
-
-Summary: Something.
